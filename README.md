@@ -1,34 +1,30 @@
-## Hi there 👋
-我是一名来自福州大学的本科生，主修会计学辅修计算机技术与科学。
+## Hi there 👋Welcome to my homepage
+### ✨Self-introduction
+I am an undergraduate student pursuing a minor in Computer Technology and Science, currently in the 2023 cohort at Fuzhou University.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+### 😄Personality-wise
+I am a meticulous individual filled with curiosity, always harboring a passion for exploring the unknown. As an INFJ, I am fond of letting data speak for itself, believing that in the vast realm of big data, every single number hides a valuable story waiting to be uncovered.
 
-<!--
-**Parry-Guopeiyuan/Parry-Guopeiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱Hobbies and interests
+* I have a strong passion for programming and technological innovationIn my free time, I self-study programming languages, leveraging my major to cultivate interdisciplinary thinking and skills.
+* Additionally, I am avid about data analysis and visualization, enjoying the process of transforming complex data into intuitive and easily comprehensible information through charts and models. This allows me to gain a deeper understanding of mathematical models. 
+* Of course, as a beginner, I am eager to progress further in my studies and continue honing my skills in these areas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 3.1 当前的技能树与技术偏好
-* 目前我掌握了Microsoft Office系列软件中的SQL语言和内置编程语言VBA，用于处理简单的数据库操作与自动化任务，其他从0开始
-* 我对于后端开发的领域比较好奇，希望后面多多了解一下。
+### 🫵Ability assessment
+1. 当前的技能树与技术偏好：
+* 目前我掌握了Microsoft Office系列软件中的SQL语言和内置编程语言VBA，用于处理简单的数据库操作与自动化任务，其他从0开始；
 * 还缺少熟练使用Python、Java或C++的能力。
-### 3.2 你之目前的代码量；本学期这门课完成后，希望达到的代码量
-* 我是一名辅修计科的大二商科学生，目前正在自学Python，同时本学期在主修专业学习吴海东老师的跨学科课程“数据库原理与应用”主要用到MySQL和[neo4j](http://127.0.0.1:7474/browser/ "要下载安装包并启动程序")。
-* 本学期，我希望能通过这门课程的学习，我希望能够掌握至少一种主流开发框架，将代码量提升至能够辅助团队完成小型软件开发项目的水平。
-
-### 3.3 最期待在课程中能够学习到什么知识，有什么收获。
-* 我希望具备一定的编程能力，在软件开发的整个生命周期中培养各种学科意识，了解软件开放过程。
+2. 目前的代码量以及希望达到的代码量：
+* 我是一名辅修计科的大二商科学生，目前正在自学Python；
+* 我希望能够有百行左右的代码量，掌握至少一种主流开发框架，将代码量提升至能够辅助团队完成小型软件开发项目的水平。
+3.你对哪类技术方向有兴趣，最想学习哪些方面的知识：
+* 我希望具备一定的编程能力；
+* 在软件开发的整个生命周期中培养各种学科意识，了解软件开放过程。
+  
+### 🎯Academic aspirations and practical goals
+* While I may not have any hands-on experience in academia or practice yet, I am fully committed to putting in the effort! During my second year at university, I will be delving into numerous compulsory courses within my major, and I am hopeful that these studies will further enhance my skills and enable me to apply them in real-world projects. 
+* Specifically, I envision embarking on a big data statistical analysis project, where I will collect and analyze data to provide insights and recommendations for businesses to improve their marketing strategies. I am excited about this opportunity to bridge theory and practice.
+  
+### 🔭Planning for the next three years 
+* I look forward to continuing to deepen my knowledge of big data in my future studies and career, applying what I've learned to solve practical problems, and simultaneously exploring and innovating within this field.
+* After graduating from university, I aspire to enter the workforce directly. However, given the current economic downturn, many businesses are facing operational pressures and reducing their recruitment of new employees, leading to a decrease in job opportunities on the market. This, in turn, intensifies the competitive pressure faced by graduates in their job search. As my major emphasizes both experience and practical skills, I recognize the importance of enhancing my capabilities during this period of oversupply in the job market. My goal is to make myself a competitive candidate and successfully secure a position in a reputable company.
